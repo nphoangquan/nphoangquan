@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/agriss.png" width="600" style="border-radius: 15px;">
-
 A night time developer who loves learning by doing<br>
 "I might not have a brain, but i have an idea"
 
